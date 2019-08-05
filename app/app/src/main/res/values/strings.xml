@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SharedPrefs</string>
+    <string name="todo_list">Enter Your Todo</string>
+    <string name="save_btn">SAVE</string>
 </resources>
